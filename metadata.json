@@ -1,0 +1,6 @@
+{
+  "name": "Original Adda Gourmet Cafe",
+  "description": "Original Adda Gourmet Cafe in Jhargram, West Bengal. Loaded pizzas, tacos, burgers, chilled mojitos, and cold coffee in an aesthetic, cosy ambiance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
